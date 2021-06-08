@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ReemTarek
-- 👀 I’m interested in backend developmend
+- 👀 I’m interested in backend development especially node js and laravel
 - 🌱 I’m currently learning react js, asp .net
 - 💞️ I’m looking to collaborate on open source frameworks
 - 📫 How to reach me :
