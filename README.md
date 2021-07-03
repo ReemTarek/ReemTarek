@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReemTarek
 - 👀 I’m interested in backend development especially node js and laravel
-- 🌱 I’m currently learning react js, asp .net
+- 🌱 I’m currently learning asp .net, python flask
 - 💞️ I’m looking to collaborate on open source frameworks
 - 📫 How to reach me :
 reemtarekmatr97@gmail.com
