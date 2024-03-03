@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ReemTarek
-- 👀 I’m interested in backend development especially node js, python flask , asp .net and laravel
-- 🌱 I’m currently learning blazor, react js, react native js
-- 💞️ I’m looking to collaborate on open source frameworks
+- 👋 Hi, I’m @ReemTarek, Experienced Software Developer
+- 👀 I’m interested in backend development especially asp .net, c# core mainly and developed some applications in Node js, React, React native, Python Flask and Laravel
+- 🌱 I’m currently expanding my experience in Blazor
+- 💞️ I’m looking to collaborate on open source frameworks and stable software solutions
 - 📫 How to reach me :
 reemtarekmatr97@gmail.com
 
